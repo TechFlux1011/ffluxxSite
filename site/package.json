@@ -1,7 +1,7 @@
 {
   "name": "site",
   "version": "0.1.0",
-  "homepage": "https://TechFlux1011.github.io/ffluxxSite/site",
+  "homepage": "https://TechFlux1011.github.io/ffluxxSite/site/public/index.html",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
